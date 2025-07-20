@@ -10,7 +10,7 @@ export default async function Hero() {
     return (
         <div className="py-14 px-6 md:px-20 lg:px-32 grid">
             <div className="border mb-4 w-fit sm:mx-auto py-1.5 px-3 rounded-full bg-background">
-                <a className="hover:underline" href="https://github.com/r2hu1/mysocials">
+                <a className="hover:underline" href="https://github.com/Adarshkrtiwar/Social_projects">
                     <p className="text-xs flex items-center justify-center gap-1">
                         ✨ Contribute to this project on github<ArrowRight className="h-4 w-4" />
                     </p>

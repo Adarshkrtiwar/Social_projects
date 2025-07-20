@@ -61,6 +61,6 @@ MySocials is licensed under the [GPL-3.0 license](https://github.com/r2hu1/mysoc
 
 ## Support
 
-For any questions, issues, or support, feel free to contact [Rahul Rajput](https://rahul.eu.org).
+For any questions, issues, or support, feel free to contact [Adarsh kr tiwari ](https://latest-ashy.vercel.app/).
 
 Thank you for using MySocials! We hope it simplifies your social media presence.
